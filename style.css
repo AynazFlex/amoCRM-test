@@ -79,6 +79,7 @@ body {
     border: 0;
     border: none;
     outline: none;
+    -webkit-appearance: none;
 }
 
 .form__search,
